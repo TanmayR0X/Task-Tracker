@@ -35,7 +35,7 @@ task-tracker/
 
 Run commands using Node:
 
-node index.js command (add,update,delete,tasks) args (if needed)
+node app.js command (add,update,delete,tasks) args (if needed)
 
 example - node app.js add "this is a test task"
 
