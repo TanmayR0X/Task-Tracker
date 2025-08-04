@@ -26,12 +26,12 @@ task-tracker/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-tracker.git
-   cd task-tracker
+   git clone https://github.com/TanmayR0X/Task-Tracker
+   cd Task-Tracker
 
 Run commands using Node:
 
-node index.js command(add,update,delete,tasks) args(if needed)
+node index.js command (add,update,delete,tasks) args (if needed)
 
 example - node app.js add "this is a test task"
 
