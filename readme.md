@@ -18,9 +18,13 @@ A simple and efficient **command-line task tracker** built with **Node.js**. Thi
 ## 📂 Project Structure
 
 task-tracker/
+
  tasks.json # Stores all task data
+ 
  app.js # Main CLI script
+ 
  README.md # Documentation
+ 
 
  📦 Installation
 
